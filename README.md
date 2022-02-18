@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ProtoTurquie
 - 👀 I do Kotlin
 
-Todo: 
+working on: 
+
 ⌛ A console based tetris game(a really simply one that is)
