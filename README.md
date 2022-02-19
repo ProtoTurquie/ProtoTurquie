@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ProtoTurquie
+-  🇹🇷 I'm Turkish 
 - 👀 I do Kotlin
 
 working on: 
