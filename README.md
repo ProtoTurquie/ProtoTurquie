@@ -3,7 +3,7 @@
 - 👀 I do Kotlin
 
 projects:
-- [A Tetris Hobby Clone ✔](Quadlet)
+- [A Tetris Hobby Clone ✔](https://github.com/ProtoTurquie/Quadlet)
 
 working on: 
 
