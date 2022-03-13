@@ -2,6 +2,9 @@
 -  🇹🇷 I'm Turkish 
 - 👀 I do Kotlin
 
+projects:
+- A Tetris Hobby Clone ✔
+
 working on: 
 
-⌛ A console based tetris game(a really simply one that is)
+
